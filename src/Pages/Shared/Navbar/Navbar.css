@@ -1,0 +1,20 @@
+.nav-li li{
+    list-style:none;
+    padding:0 18px;
+    font-size:17px;
+    font-weight:500;
+    position: relative;
+}
+.nav-li li::before{
+    position: absolute;
+    content:"";
+    top:50%;
+    left:0;
+    width:0%;
+    height:2px;
+    background-color:#fff;
+    transition:0.5s;
+}
+.nav-li li:hover::before{
+    width:100%;
+}

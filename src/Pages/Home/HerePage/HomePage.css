@@ -1,0 +1,14 @@
+
+.banner-img{
+    position: relative;
+    overflow: hidden;
+}
+.banner-img::before{
+    position: absolute;
+    content: "";
+    height:100%;
+    width:100%;
+    top:0;
+    left:0;
+    background-image: linear-gradient(90deg,#542ad4e1, #7c35e0dd);
+}

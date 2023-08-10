@@ -1,0 +1,23 @@
+[
+    {
+      "image": "https://i.ibb.co/SnvWKKn/avatar-3.png",
+      "name":"Junaid Hasan",
+      "address": "Los Angeles, Coliforina",
+      "rating": 4.2,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lorem euismod, vehicula nibh ut, tincidunt tortor."
+    },
+    {
+      "image": "https://i.ibb.co/VMPPv6s/avatar-2.png",
+      "name":"Jassica William",
+      "rating": 3.8,
+      "address": "Los Angeles, Coliforina",
+      "details": "Praesent commodo aliquam ex, sed commodo purus iaculis quis. In a arcu ut metus vulputate tincidunt."
+    },
+    {
+      "image": "https://i.ibb.co/fSJdh3b/avatar-1.png",
+      "name":"Al Mamon",
+      "address": "Los Angeles, Coliforina",
+      "rating": 5.0,
+      "details": "Sed auctor nunc nunc, eget vulputate odio feugiat ut. Etiam sit amet eros malesuada, tincidunt urna id, vestibulum eros."
+    }
+  ]

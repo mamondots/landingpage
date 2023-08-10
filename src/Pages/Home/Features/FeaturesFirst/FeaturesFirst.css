@@ -1,0 +1,17 @@
+.icon-box{
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.284);
+    transition:0.5s;
+}
+.icon-box:hover{
+    box-shadow: 0px 0px 5px 0px #7d4fe08d;
+}
+.features-btn{
+    background-image:linear-gradient(90deg,#5029DE 50%, #7B2FE6);
+    border-radius:6px;
+    transform:scale(1);
+    transition:0.5s ease;
+}
+.features-btn:hover{
+    background-image:linear-gradient(90deg,#7B2FE6 20%,#5029DE);
+    transform:scale(0.96);
+}

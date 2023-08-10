@@ -1,0 +1,22 @@
+[
+    {
+      "name": "John Doe",
+      "position": "Frontend Developer",
+      "image": "https://i.ibb.co/SnvWKKn/avatar-3.png"
+    },
+    {
+      "name": "Alex Johnson",
+      "position": "Full Stack Developer",
+      "image": "https://i.ibb.co/RB2378k/avatar-4.png"
+    },
+    {
+      "name": "Emily Brown",
+      "position": "UI/UX Web Designer",
+      "image": "https://i.ibb.co/fSJdh3b/avatar-1.png"
+    },
+    {
+      "name": "Mike Davis",
+      "position": "Database Administrator",
+      "image": "https://i.ibb.co/VMPPv6s/avatar-2.png"
+    }
+  ]
